@@ -14,3 +14,6 @@ This talk has been very influential on me lately. In this talk, Dilip Ratha tel
 This talk has been more than just another TED talk for me. Watching this talk has helped me realize the current state of international money transfer and motivated me to look further into the subject. I think this problem is worthwhile not just for the significance of remittances to the global economy (the econ nerd in me is definitely excited), but also for the fact that it pertains largely to a group of people who are often at the disadvantage. I'm talking about millions of workers living abroad, working hard jobs, earning low incomes and trying to save as much as possible to send money home. These people are often taken advantage of, shunned upon in both the host countries and home countries and have very little voice in protecting themselves.
 
 As I further explore this topic, I will be updating this post, as well as writing new ones. So stay tuned.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwNjkwMjgxODZdfQ==
+-->
