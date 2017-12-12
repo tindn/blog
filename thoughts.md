@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Thoughts
-permalink: /thoughts/
+permalink: thoughts/
 ---
 
 <div class="home">
