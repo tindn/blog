@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Becoming Craftsma
+title: Becoming Craftsman
 date:   2015-05-21 10:27:07 -0500
 categories: thoughts
 ---
@@ -8,5 +8,5 @@ categories: thoughts
 > 
 *from [Lessons Learned: A Craftman's Approach to Software Development](http://www.developer.com/design/lessons-learned-a-craftsmans-approach-to-software-development.html){:target="_blank"}*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTkyMTA3MV19
+eyJoaXN0b3J5IjpbMjA5OTE5MjQ4OV19
 -->
